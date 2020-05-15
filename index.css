@@ -1,0 +1,18 @@
+body > div {
+    width: 500px;
+    height: 309px;
+    background:#26A69A;
+    -webkit-transition: all 0.3s ease;;
+    -moz-transition: all 0.3s ease;;
+    -o-transition: all 0.3s ease;;
+    transition: all 0.3s ease;
+  }
+
+.color:hover {
+    background:#FFEE58;
+  }
+
+    
+    
+
+    
